@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# This repository contains research documents only, not an implemented prototype.
+printf '%s\n' 'Orb setup: no toolchain or dependencies to install.'

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# No services or authentication need restoring for the research documents.
+printf '%s\n' 'Orb resume: no services or authentication to restore.'
