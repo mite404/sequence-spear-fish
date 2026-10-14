@@ -12,15 +12,18 @@ This repository contains research, not Sequence's source code or an implemented 
   edit-version QC, handle-aware dissolves, and the evidence each demo needs.
 - [Differentiation and possible moats](docs/sequence-differentiation.md): competitor comparison,
   integrated workflow advantages, and what remains unproven.
+- [Stack evidence and selected slice](docs/sequence-stack-and-slice.md): SvelteKit, cloud preview
+  evidence, editor layout, and the independent Difference and masking features selected by Ethan.
 
 The source conversation contains screenshots, recordings, and additional research context:
 [Sequence research thread][thread]. Those artifacts are not copied into this repository.
 
 ## Continue in another thread
 
-Read all three documents before selecting a prototype. Treat documented limitations differently
-from reproduced defects. Do not describe the subtract-blended ocean title as a successful mask.
-Do not claim alpha import/export, latency leadership, or multiplayer conflict safety was verified.
+Read the stack-and-slice document for the current scope, then the earlier research for context.
+Treat documented limitations differently from reproduced defects. Do not describe the
+subtract-blended ocean title as a successful mask. Do not claim alpha import/export, latency
+leadership, or multiplayer conflict safety was verified.
 
 Meaningful work remains in Ethan's Sequence account. The commercial master and VFX lab are
 separate timelines. See the findings document for names and identifiers.
