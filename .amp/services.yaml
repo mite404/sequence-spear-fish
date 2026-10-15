@@ -1,0 +1,9 @@
+services:
+  editor:
+    command: npm run dev -- --port "$PORT" --strictPort
+    port: 5173
+    health: /
+    portal:
+      url: /
+      title: Sequence compositing lab
+      description: Local still-image slice. Difference and masks are independent clip controls.

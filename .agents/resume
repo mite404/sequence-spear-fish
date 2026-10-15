@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# No services or authentication need restoring for the research documents.
-printf '%s\n' 'Orb resume: no services or authentication to restore.'
+printf '%s\n' 'Local editor needs no authentication. Run amp orb services ensure for the preview.'
